@@ -43,7 +43,7 @@ namespace SchedulePayment.Controllers
         {
             //var token = Request.Headers["Authorization"].ToString().Replace("Bearer ", "");
            // if(! await _jwtTokenValidation.ValidateJwtTokenAsync(token))
-            {
+            //{
             //    return Unauthorized();
            // }
             var deleteSchedulePayment = await _schedulePaymentsService.DeleteSchedulePayment(schedulePaymentId);
