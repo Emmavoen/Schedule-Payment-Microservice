@@ -48,7 +48,7 @@ namespace SchedulePayment.Controllers
            // }
             var deleteSchedulePayment = await _schedulePaymentsService.DeleteSchedulePayment(schedulePaymentId);
             return Ok(deleteSchedulePayment);
-        }
+        
 
         [HttpPut]
         [Route("UpdateSchedulePayment")]
