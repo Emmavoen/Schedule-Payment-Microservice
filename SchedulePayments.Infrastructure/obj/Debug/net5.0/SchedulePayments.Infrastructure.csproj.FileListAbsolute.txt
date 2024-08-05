@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\bin\Debug\net5.0\SchedulePayments.Infrastructure.deps.json
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\bin\Debug\net5.0\SchedulePayments.Infrastructure.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\bin\Debug\net5.0\SchedulePayments.Infrastructure.pdb
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\bin\Debug\net5.0\SchedulePayments.Application.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\bin\Debug\net5.0\SchedulePayments.Domain.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\bin\Debug\net5.0\SchedulePayments.Application.pdb
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\bin\Debug\net5.0\SchedulePayments.Domain.pdb
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\obj\Debug\net5.0\SchedulePayments.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\obj\Debug\net5.0\SchedulePayments.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\obj\Debug\net5.0\SchedulePayments.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\obj\Debug\net5.0\SchedulePayments.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\obj\Debug\net5.0\SchedulePayments.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\obj\Debug\net5.0\SchedulePayments.Infrastructure.csproj.CopyComplete
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\obj\Debug\net5.0\SchedulePayments.Infrastructure.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\obj\Debug\net5.0\refint\SchedulePayments.Infrastructure.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\obj\Debug\net5.0\SchedulePayments.Infrastructure.pdb
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Infrastructure\obj\Debug\net5.0\ref\SchedulePayments.Infrastructure.dll

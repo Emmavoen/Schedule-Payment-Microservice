@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\bin\Debug\net5.0\SchedulePayments.Application.deps.json
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\bin\Debug\net5.0\SchedulePayments.Application.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\bin\Debug\net5.0\SchedulePayments.Application.pdb
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\bin\Debug\net5.0\SchedulePayments.Domain.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\bin\Debug\net5.0\SchedulePayments.Domain.pdb
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\obj\Debug\net5.0\SchedulePayments.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\obj\Debug\net5.0\SchedulePayments.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\obj\Debug\net5.0\SchedulePayments.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\obj\Debug\net5.0\SchedulePayments.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\obj\Debug\net5.0\SchedulePayments.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\obj\Debug\net5.0\SchedulePayments.Application.csproj.CopyComplete
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\obj\Debug\net5.0\SchedulePayments.Application.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\obj\Debug\net5.0\refint\SchedulePayments.Application.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\obj\Debug\net5.0\SchedulePayments.Application.pdb
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Application\obj\Debug\net5.0\ref\SchedulePayments.Application.dll

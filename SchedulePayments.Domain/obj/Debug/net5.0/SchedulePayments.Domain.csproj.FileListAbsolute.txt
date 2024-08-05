@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Domain\bin\Debug\net5.0\SchedulePayments.Domain.deps.json
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Domain\bin\Debug\net5.0\SchedulePayments.Domain.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Domain\bin\Debug\net5.0\SchedulePayments.Domain.pdb
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Domain\obj\Debug\net5.0\SchedulePayments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Domain\obj\Debug\net5.0\SchedulePayments.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Domain\obj\Debug\net5.0\SchedulePayments.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Domain\obj\Debug\net5.0\SchedulePayments.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Domain\obj\Debug\net5.0\SchedulePayments.Domain.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Domain\obj\Debug\net5.0\refint\SchedulePayments.Domain.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Domain\obj\Debug\net5.0\SchedulePayments.Domain.pdb
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Domain\obj\Debug\net5.0\ref\SchedulePayments.Domain.dll
+C:\Users\user\Desktop\project\SchedulePayments\SchedulePayments.Domain\obj\Debug\net5.0\SchedulePayments.Domain.csproj.AssemblyReference.cache
